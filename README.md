@@ -3,7 +3,7 @@
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakur0088" alt="thakur0088" /></a> </p>
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thakur0088&label=Profile%20views&color=0e75b6&style=flat" alt="Thakur0088" />
   <img src="https://img.shields.io/github/followers/Thakur0088?label=Followers&style=social" alt="GitHub Followers" />
