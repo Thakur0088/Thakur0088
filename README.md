@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2f774208-1163-43d5-bb51-84994f3660b5">
 
 ### 🔭 Current Focus
 - **Working on:** Mini Games  
