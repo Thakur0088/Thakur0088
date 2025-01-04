@@ -35,7 +35,7 @@
     <th>Frontend</th>
     <th>Backend</th>
     <th>Database</th>
-    <th>Programming</th>
+    <th>Other</th>
   </tr>
   <tr>
     <td align="center">
@@ -64,11 +64,11 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thakur0088&show_icons=true&locale=en&layout=compact" alt="Thakur0088" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thakur0088&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thakur0088&show_icons=true&locale=en" alt="Thakur0088" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thakur0088&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thakur0088&" alt="Thakur0088" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thakur0088&" alt="GitHub Streak" />
 </p>
