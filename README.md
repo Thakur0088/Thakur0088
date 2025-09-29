@@ -8,9 +8,9 @@
 
 ---
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Fixed Link) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+(SOC+Path);Full+Stack+Dev+(MERN+%2B+Java);AI+%26+ML+Explorer;Linux+%7C+Networking+%7C+Pentesting;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+(SOC+Path);Full+Stack+Dev+(MERN+%2B+Java);AI+%26+ML+Explorer;Linux+%7C+Networking+%7C+Pentesting;Always+Learning+New+Things+🚀" alt="Typing Animation" />
 </p>
 
 ---
@@ -43,10 +43,9 @@
 <p align="center">
 
   <!-- Cybersecurity -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-bug-bug-hunting-flat-flat-juicy-fish.png" width="55" title="Bug Bounty"/>
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="50" title="Kali Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="50" title="Wireshark"/>
-  <img src="https://img.icons8.com/ios-filled/50/ethical-hacking.png" width="55" title="Pentesting"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="50" title="Bash"/>
+  <img src="https://skillicons.dev/icons?i=security" width="50" title="Cybersecurity"/>
   
   <!-- Full Stack -->
   <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/>
@@ -57,9 +56,9 @@
   
   <!-- AI -->
   <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=numpy" width="50" title="NumPy"/>
+  <img src="https://skillicons.dev/icons?i=pandas" width="50" title="Pandas"/>
 </p>
 
 ---
@@ -67,8 +66,8 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/anshdeep-thakur" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://tryhackme.com/p/Thakur0088" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/default_badge.png" width="50"/></a>
-  <a href="https://leetcode.com/anshdeep_thakur" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" width="50"/></a>
+  <a href="https://tryhackme.com/p/Thakur0088" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Thakur0088.png" width="120"/></a>
+  <a href="https://leetcode.com/anshdeep_thakur" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="50"/></a>
   <a href="https://instagram.com/anshdeepthakur8" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
 </p>
 
