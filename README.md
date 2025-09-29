@@ -1,10 +1,10 @@
-<h1 align="center">🔐 Hi 👋, I'm Anshdeep Thakur</h1>
-<h3 align="center">Cybersecurity Enthusiast | CSE 3rd Year Student | Passionate Coder</h3>
+<h1 align="center">👋 Hi, I'm Anshdeep Thakur</h1>
+<h3 align="center">Cybersecurity Student | Full Stack Developer | AI Enthusiast</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;SOC+Analyst+Path+on+TryHackMe;Linux+%7C+Networking+%7C+Web+Security;Coder+%7C+Problem+Solver+%7C+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+(CSE+3rd+Year);Full+Stack+Developer+(MERN+%2B+Java);SOC+Analyst+Path+on+TryHackMe;AI+%26+ML+Beginner;Linux+%7C+Networking+%7C+Problem+Solver" alt="Typing Animation" />
 </p>
 
 ---
@@ -16,15 +16,15 @@
 
 ---
 
-<img align="right" alt="hacking" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🌱 Current Focus
-- Learning **SOC Analyst Path (TryHackMe)**
-- Exploring **Network Security & Threat Analysis**
-- Improving in **Linux & Bash Scripting**
+- **Cybersecurity** → SOC Analyst Path (TryHackMe)  
+- **Full Stack Development** → MERN + Java  
+- **AI & ML Basics** → Exploring Python, ML, and simple models  
 
 ### 💬 Ask Me About
-- **Cybersecurity, Linux, Networking, JavaScript, Java, C++**
+- **Cybersecurity, Web Development (MERN), Linux, AI Basics, Java, C++**
 
 ### 📫 Reach Me
 - Email: **thakuranshdeep2006@gmail.com**
@@ -41,7 +41,7 @@
 
 ---
 
-<h2 align="center">🛠️ Languages, Tools & Security Stack 🛠️</h2>
+<h2 align="center">🛠️ Languages, Tools & Tech Stack 🛠️</h2>
 <table align="center">
   <tr>
     <th>Programming</th>
@@ -49,6 +49,7 @@
     <th>Backend</th>
     <th>Database</th>
     <th>Cybersecurity Tools</th>
+    <th>AI / ML</th>
   </tr>
   <tr>
     <td align="center">
@@ -56,27 +57,46 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" title="Wireshark"/>
       <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="40" title="Kali Linux"/>
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-bug-bug-hunting-flat-flat-juicy-fish.png" width="40" title="Bug Bounty"/>
       <img src="https://img.icons8.com/ios/50/000000/network.png" width="40" title="Networking"/>
-      <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/000000/external-shield-security-smashingstocks-flat-smashing-stocks.png" width="40" title="Snort, IDS/IPS"/>
+      <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/000000/external-shield-security-smashingstocks-flat-smashing-stocks.png" width="40" title="IDS/IPS"/>
+      <img src="https://img.icons8.com/ios-filled/50/ethical-hacking.png" width="40" title="Pentesting"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">🚀 Cybersecurity + Dev Journey 🚀</h2>
+
+📌 **2023** → Started with C, C++, Java basics  
+📌 **2024** → Learned Full Stack (MERN + Java), started Linux & Cybersecurity labs  
+📌 **2025** → Focused on SOC Analyst Path (TryHackMe), Network Security, AI Basics  
 
 ---
 
