@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=3rd+Year+CSE+Student;SOC+Analyst+Path+%F0%9F%94%90;MERN+%2B+Java+%2F+Spring+Boot+Dev;TryHackMe+%7C+LeetCode+Grinder;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=4th+Year+CSE+Student;SOC+Analyst+Path+%F0%9F%94%90;MERN+%2B+Java+%2F+Spring+Boot+Dev;TryHackMe+%7C+LeetCode+Grinder;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ```bash
 $ whoami
-> Anshdeep Thakur — 3rd Year CSE Student
+> Anshdeep Thakur — 4th Year CSE Student
 
 $ cat interests.txt
 > 🔐 Cybersecurity (SOC Analyst Path on TryHackMe)
