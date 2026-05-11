@@ -1,100 +1,79 @@
-<!-- Title Section -->
-<h1 align="center">
-  <img src="https://em-content.zobj.net/thumbs/120/google/350/lock_1f512.png" width="40"/> 
-  Hey, I'm <b>Anshdeep Thakur</b> 
-  <img src="https://em-content.zobj.net/thumbs/120/google/350/rocket_1f680.png" width="40"/>
-</h1>
-<h3 align="center">Cybersecurity Student 🔐 | Full Stack Developer 💻 | AI Explorer 🤖</h3>
+<div align="center">
+
+# Anshdeep Thakur
+
+**Cybersecurity · Full Stack · AI/ML**  
+3rd Year CSE Student · SOC Analyst Path · MERN + Java + Spring
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshdeep-thakur)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Thakur0088)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/anshdeep_thakur)
+[![Profile Views](https://komarev.com/ghpvc/?username=Thakur0088&style=flat-square&color=0e75b6&label=Views)](https://github.com/Thakur0088)
+
+</div>
 
 ---
 
-<!-- Typing Animation (Fixed Link) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+(SOC+Path);Full+Stack+Dev+(MERN+%2B+Java);AI+%26+ML+Explorer;Linux+%7C+Networking+%7C+Pentesting;Always+Learning+New+Things+🚀" alt="Typing Animation" />
-</p>
+## About
+
+I'm a 3rd-year Computer Science student focused on the intersection of security, systems, and software. Currently building toward a **SOC Analyst** role while shipping full-stack projects and exploring applied ML.
+
+- 🔐 Working through the **SOC Analyst Path** on TryHackMe — log analysis, SIEM, threat detection
+- 💻 Building production-ready apps with **MERN stack + Java/Spring Boot**
+- 🤖 Applying **Python, TensorFlow, and scikit-learn** to real ML problems
+- 🐧 Daily driving **Linux** — comfortable with Bash, networking, and system internals
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thakur0088&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-  <img src="https://img.shields.io/github/followers/Thakur0088?label=Followers&style=social" alt="followers"/>
-  <img src="https://img.shields.io/badge/Code-Security%20%26%20Dev-critical?style=flat&logo=github" alt="badge"/>
-</p>
+## Tech Stack
+
+**Security**  
+`Linux` `Wireshark` `Nmap` `Burp Suite` `Bash Scripting` `SIEM (intro)`
+
+**Full Stack**  
+`React` `Node.js` `Express` `MongoDB` `Java` `Spring Boot` `REST APIs`
+
+**AI / ML**  
+`Python` `TensorFlow` `NumPy` `Pandas` `scikit-learn`
+
+**Tools & Infra**  
+`Git` `Docker (learning)` `VS Code` `Kali Linux` `Postman`
 
 ---
 
-<!-- Hacking GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="hacker vibe"/>
-</p>
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Thakur0088&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Thakur0088&layout=compact&theme=github_dark&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thakur0088&theme=github-dark-blue&hide_border=true)
+
+</div>
 
 ---
 
-### 🚀 What I'm Up To
-- 🔐 Diving deep into **Cybersecurity (SOC Analyst Path @ TryHackMe)**
-- 💻 Building projects as a **Full Stack Developer (MERN + Java + Spring)**
-- 🤖 Exploring **AI & ML Basics** with Python & TensorFlow  
-- 🐧 Living on **Linux + Networking + Bash scripting**
+## Timeline
+
+| Year | Focus |
+|------|-------|
+| 2023 | Fundamentals — C, C++, Java, DSA |
+| 2024 | Full Stack — MERN, Java/Spring · Linux labs, CTFs |
+| 2025 | SOC path · Network security · AI/ML basics |
 
 ---
 
-### ⚡ Tech & Tools  
-<p align="center">
+## Certifications & Learning
 
-  <!-- Cybersecurity -->
-  <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="50" title="Bash"/>
-  <img src="https://skillicons.dev/icons?i=security" width="50" title="Cybersecurity"/>
-  
-  <!-- Full Stack -->
-  <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="NodeJS"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50" title="Express"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=java" width="50" title="Java"/>
-  
-  <!-- AI -->
-  <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" title="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=numpy" width="50" title="NumPy"/>
-  <img src="https://skillicons.dev/icons?i=pandas" width="50" title="Pandas"/>
-</p>
+- TryHackMe — SOC Level 1 Path *(in progress)*
+- LeetCode — consistent DSA practice
+- Self-directed: networking (TCP/IP, DNS, HTTP), web security (OWASP Top 10)
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/anshdeep-thakur" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://tryhackme.com/p/Thakur0088" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Thakur0088.png" width="120"/></a>
-  <a href="https://leetcode.com/anshdeep_thakur" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="50"/></a>
-  <a href="https://instagram.com/anshdeepthakur8" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
-</p>
+<div align="center">
 
----
+*"Security is not a product, but a process."* — Bruce Schneier
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thakur0088&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thakur0088&layout=compact&theme=radical" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thakur0088&theme=radical" height="160"/>
-</p>
-
----
-
-### 📌 Journey Snapshot
-📍 **2023** → Started with C, C++, Java basics  
-📍 **2024** → MERN + Java Full Stack, Linux + Cybersecurity labs  
-📍 **2025** → SOC Analyst Path, Network Security, AI Basics 🚀  
-
----
-
-### ✍️ Quote to Code By
-> “Security is not a product, but a process.” – Bruce Schneier  
-
----
-
-### 🔗 Fun Fact
-☕ + 🌙 = My best debugging combo 😉
+</div>
